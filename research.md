@@ -4,7 +4,7 @@ title: Research
 subtitle: Multi-disciplinary
 ---
 ### Research and Technical Interest
-- Telecommunication2:
+- Telecommunication:
   - Wireless communications and networking
   - Massive Machine Type Communication (mMTC)
   - Ultra Reliability and Low Latency Communication (URLLC)
