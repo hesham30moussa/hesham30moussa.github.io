@@ -23,6 +23,8 @@ navbar-links:
   About Me: "aboutme"
   My Work: 
     - Research: "research"
+      - R1: "R1"
+      - R2: "R2"
     - Inventions: "invention"
     - Teaching: "teaching"
   #Resources:
