@@ -5,7 +5,7 @@ subtitle: Multi-disciplinary
 ---
 ### Research and Technical Interest
 - Telecommunication:
-- - Wireless communications and networking
+  - Wireless communications and networking
   - Massive Machine Type Communication (mMTC)
   - Ultra Reliability and Low Latency Communication (URLLC)
   - Connectivity and Internet of Things (IOT)
@@ -14,12 +14,12 @@ subtitle: Multi-disciplinary
   - Satellite and non-terrestrial networks
   - Network slicing
 - Biomedical:
-- - Biomedical Imaging
+  - Biomedical Imaging
   - Biomedical Implants
   - Drug Delivery
   - Body Area Networks
 - Technology:
-- - Digital Twin modeling
+  - Digital Twin modeling
   - Virtual Reality
   - Metaverse
   - Applied Artificial intelligence
